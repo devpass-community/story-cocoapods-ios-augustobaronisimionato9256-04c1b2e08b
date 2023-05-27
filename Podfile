@@ -7,6 +7,8 @@ target 'EvercodeApp' do
 
   # Pods for EvercodeApp
 
+  pod "Kingfisher"
+
   target 'EvercodeAppTests' do
     inherit! :search_paths
     # Pods for testing
